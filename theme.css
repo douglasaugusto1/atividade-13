@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    
+}
+ #horarioAtual {
+     color: black;
+     text-align: center;
+     font: 5em sans-serif;
+     -webkit-animation: colorchange 60s infinite; 
+     animation: colorchange 60s infinite;
+ }
+ 
+
+ .quadrado {
+     width:500px;
+    height:90px;
+    border: 25px solid; /* As 4 bordas sólidas com 25px de espessura */
+    border-color: #f00 #0f0 #00f #fc0; /* cores: topo, direita, inferior, esquerda */
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+
+}
